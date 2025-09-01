@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm Rashmi 👩‍💻
 
-<!--
-**Rashmi-gt/Rashmi-gt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I am a 3rd-year B.Tech Information Technology student at PRMIT&R, Amravati.  
+💻 I enjoy coding, building small projects, and exploring new technologies.  
+🌱 Currently learning Data Structures & Algorithms in Java and beginning my journey into Machine Learning.  
+🚀 Interested in Web Development, AI/ML, and Open Source collaboration.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills & Tools
+- **Languages:** Java (Core, DSA basics), Python (basic)  
+- **Web Development:** HTML, CSS, JavaScript, Node.js (beginner)  
+- **Database:** SQL (basic)  
+- **Tools & Platforms:** Git, GitHub, VS Code, Microsoft Office  
+
+---
+
+## 📂 Projects
+Here are some of my beginner-friendly projects:
+
+- 🎶 **Spotify Clone** – A basic clone built using HTML, CSS, JavaScript.  
+- 🎮 **Simon Says Game** – Interactive memory game using JavaScript, DOM manipulation, and event handling.  
+- 🌐 **Node.js Practice Apps** – Experiments with Express.js, EJS, and backend basics.  
+- 📘 **DSA in Java** – Repository of solved problems (arrays, sorting, strings, etc.).  
+
+---
+
+## 📊 GitHub Stats
+![Rashmi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rashmi-gt&show_icons=true&theme=radical)
+
+---
+
+## 🤝 Connect with Me
+- ✉️ Email: rashmivarma2005@gmail.com  
+- 💼 [LinkedIn](YOUR_LINKEDIN_URL)  
+- 🌟 Always open to collaboration on beginner-friendly projects!
